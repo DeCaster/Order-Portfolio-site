@@ -21,8 +21,7 @@ Sayfayı görüntülemek için `index.html` dosyasını herhangi bir web tarayı
 
 ## İletişim
 
-- **Telefon**: +90535-576-60-73
-- **Sosyal Medya Bağlantıları**: Sayfanın alt kısmında YouTube, TikTok, Instagram ve Facebook için bağlantılar bulunmaktadır.
+- **Telefon**: +90536-996-54-84
 
 ## Lisans
 
