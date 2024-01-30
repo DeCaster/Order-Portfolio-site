@@ -1,5 +1,5 @@
 # Tarot Naz Web Sayfası
-
+Web sitenin online likine buraan ulasa bilirsiniz https://tarot771377.netlify.app
 Bu proje, Tarot Naz adında bir tarot ve büyü hizmetleri sağlayan web sayfasını içermektedir siparisle yapildi.
 
 ## Özellikler
